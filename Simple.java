@@ -18,5 +18,6 @@ public class Simple {
 		System.out.println("Age=" + student.getAge());
 		System.out.println("Subject=" + student.getSubject());
 		System.out.println("new line added...");
+		System.out.println("really good one");
 	}
 }
